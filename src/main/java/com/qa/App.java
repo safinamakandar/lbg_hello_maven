@@ -4,7 +4,7 @@ package com.qa;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
@@ -13,6 +13,8 @@ public class App
         System.out.println(sayHelloToSomeone("Bob"));
         System.out.println(sayHelloToSomeone("Charlie"));
         System.out.println(sayHelloToSomeone("Zena"));
+        System.out.println(sayHelloToSomeone("Safina"));
+        System.out.println(sayHelloToSomeone("Abarna"));
         System.out.println(sayGoodbye());
     }
 
